@@ -7,9 +7,12 @@ canvas {
   border: 10px solid red;
   box-shadow: 0 10px 20px -10px;
 
-  position:red absolute;
+  position: absolute;
   left: 50%;
   right: 50%;
-  transform: translate(-50%, -50%)
+  
+
+  transform: translate(50%, 50%);
+ transform: translate(-50%, 10%)
 
 }
